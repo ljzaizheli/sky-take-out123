@@ -41,4 +41,11 @@ public class DishController {
         dishService.deleteBatch(ids);
         return Result.success();
     }
+
+    @PostMapping("/status/{status}")
+    @ApiOperation("菜品起售/停售")
+    public Result status(@PathVariable Integer status,Long id) {
+        dishService.status(status,id);
+        return Result.success();
+    }
 }
