@@ -20,3 +20,4 @@ public class CategoryDTO implements Serializable {
     private Integer sort;
 
 }
+
