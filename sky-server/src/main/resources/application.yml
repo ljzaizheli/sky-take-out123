@@ -59,6 +59,6 @@ sky:
     notifyUrl: ${sky.wechat.notifyUrl}
     refundNotifyUrl: ${sky.wechat.refundNotifyUrl}
   shop:
-    address: 长沙市岳麓区清水路59号
+    address: 湖南省长沙市岳麓区岳麓街道麓山南路932号
   baidu:
     ak: LjLOjOhGw1D66SzUY1f7ndPGwep9TBfd
