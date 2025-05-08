@@ -7,10 +7,10 @@ sky:
     username: root
     password: lj20040905
   alioss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tRJtDDGRhDwjejGNM4s
-    access-key-secret: OuiF09dQjh9eRhDYyluzmnJcmRQV6s
-    bucket-name: sky-lijun
+    endpoint: 
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
   redis:
     host: localhost
     port: 6379
